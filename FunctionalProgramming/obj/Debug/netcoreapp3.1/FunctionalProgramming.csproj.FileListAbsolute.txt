@@ -1,0 +1,11 @@
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.exe
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.deps.json
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.json
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.dev.json
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.dll
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.dll
+C:\Users\mr_ho\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.pdb
